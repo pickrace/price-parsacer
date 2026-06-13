@@ -1,0 +1,5 @@
+.streamlit/secrets.toml
+data/price_history.xlsx
+__pycache__/
+*.pyc
+.venv/
